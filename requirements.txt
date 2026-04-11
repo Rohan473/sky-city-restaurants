@@ -1,1 +1,12 @@
-
+streamlit==1.54.0
+pandas==2.3.3
+numpy==2.4.2
+plotly==6.5.2
+scikit-learn==1.8.0
+xgboost==3.2.0
+fastapi==0.129.0
+uvicorn==0.41.0
+statsmodels>=0.14,<0.15
+fpdf2>=2.7,<3.0
+scipy>=1.13,<2.0
+kaleido>=0.2.1
