@@ -58,8 +58,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Access the dashboard at **http://localhost:8501**
-
 ## Dependencies
 
 | Package | Purpose |
